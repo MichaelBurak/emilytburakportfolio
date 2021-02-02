@@ -62,7 +62,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ---
 
-### _Text Summarizer That Lacks A Clever Name):_
+### _Text Summarizer That Lacks A Clever Name:_
 
 ![alt text](textsummation.png)
 
