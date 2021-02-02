@@ -62,6 +62,16 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ---
 
+### _Text Summarizer That Lacks A Clever Name):_
+
+![alt text](textsummation.png)
+
+- A text summary generator utilizing [Hugging Face](https://huggingface.co/)'s implementation of the T5 transformer applied to user-submitted text.
+
+[(Website)](https://summary-docker-demo-7cgts76p3a-uw.a.run.app/)
+
+---
+
 ## Past/Not Currently Being Worked On Projects:
 
 ### _Got Some Bad News(?)_
@@ -107,5 +117,4 @@ _An Natural Language Processing analysis using Bayesian modeling on imbalanced t
 
 # **Reminder: Follow Me On**
 
-![alt text](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)
-[LinkedIn](https://www.linkedin.com/in/michael-burak/)
+[LinkedIn, click it, you got this far!](https://www.linkedin.com/in/michael-burak/)
