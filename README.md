@@ -17,7 +17,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ## More information about me can be found at
 
-![alt text](lincolned.png)
+![alt text](LISummary.png)
 
 - [LinkedIn](https://www.linkedin.com/in/michael-burak/)
 
@@ -88,7 +88,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ![alt text](tellstweets.jpg)
 
-_An Natural Language Processing analysis using Bayesian modeling on imbalanced twitter data_
+_A Natural Language Processing analysis using Bayesian modeling on imbalanced twitter data_
 
 - Project utilizing NLP techniques to examine tweets about Apple and Google during SXSW 2011 for Flatiron School's Data Science program.
   [(README)](https://tells-in-tweets.netlify.app/)
