@@ -1,12 +1,12 @@
 # **Emily T. Burak's Portfolio** _-- Data Engineer/Scientist and Software Developer in Colorado_
 
-![alt text](profile.jpg)
+![alt text](./images/profile.jpg)
 
 ---
 
 # **About me:**
 
-![alt text](flowerz.png)
+![alt text](./images/flowerz.png)
 _Data Scientist trained in Full Stack Web Development specializing in JavaScript, Python, and SQL._ Computer Science educator towards diversity in STEM, comfortable working at the intersection of technology with business and finance, politics, wherever life takes me.
 
 Why do I do it and how do I do it?
@@ -17,15 +17,15 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ## More information about me can be found at
 
-![alt text](LISummary.png)
+![alt text](./images/LISummary.png)
 
 - [LinkedIn](https://www.linkedin.com/in/michael-burak/)
 
-![alt text](resumecap.png)
+![alt text](./images/resumecap.png)
 
 - [My Resume](https://docs.google.com/document/d/1GM-2y2pKSyvS0RD0umWTW-D-1mJSTeuM3DI1SMKzAbM/edit?usp=sharing)
 
-![alt text](gitglad.png)
+![alt text](./images/gitglad.png)
 
 - Github, [right here!](https://github.com/MichaelBurak)
 
@@ -37,7 +37,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _Lords of War: An Arms Trade Analysis_
 
-![alt text](lowcap.png)
+![alt text](./images/lowcap.png)
 
 - Work in progress Python-based data analysis of historical global arms trade data from [SIPRI](https://www.sipri.org/databases/armstransfers) using Neo4j as a graph database for tricky heavily relationship-driven rich text format data focusing on supply dynamics. Utilizing clustering with t-SNE/UMAP, outlier detection, and NLP on comments on the trades. Future work includes adding more synergistic data and machine learning modeling with a focus on the Cold War. [(Repo)](https://github.com/MichaelBurak/arms-trade-analysis)
   [(Interactive graph viz -- takes a minute to load, mostly just pretty)](https://arms-trade-connections-viz.netlify.app/)
@@ -46,8 +46,8 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _WakeNight & Nomadologic Generator_
 
-![alt text](wakegen.png)
-![alt text](nomadologic.png)
+![alt text](./images/wakegen.png)
+![alt text](./images/nomadologic.png)
 
 - Work using [GPT-2 simple](https://github.com/minimaxir/gpt-2-simple) to generate text off user prompts from Finnegans Wake and A Thousand Plateaus, linguistically dense texts, with a front end, dockerized and hosted on Google Cloud services.[(Nomadologic's Website)](https://nomadologic-generator.netlify.app/)
   [(Latent Dirichlet Allocation Topic Modeling on A Thousand Plateaus)](https://nomad-lda.herokuapp.com/)
@@ -56,7 +56,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _The Defense Sector and Authoritarian Regime Changes - A Stock Analysis:_
 
-![alt text](defense.jpg)
+![alt text](./images/defense.jpg)
 
 - Capstone project utilizing Python time series analysis techniques for prediction of Lockheed Martin stock using regime change/state stability data for Flatiron School's Data Science program. [(README)](https://defense-sector-authoritarianism.netlify.app/)
 
@@ -64,7 +64,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _Text Summarizer That Lacks A Clever Name:_
 
-![alt text](textsummation.png)
+![alt text](./images/textsummation.png)
 
 - A text summary generator utilizing [Hugging Face](https://huggingface.co/)'s implementation of the T5 transformer applied to user-submitted text.
 
@@ -76,7 +76,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _Got Some Bad News(?)_
 
-![alt text](badnewscap.png)
+![alt text](./images/badnewscap.png)
 
 - _An instant doomscroller using Natural Language Processing Machine Learning in Python_
 
@@ -86,7 +86,7 @@ Same answer: _I live out a love for tech, most of all collaborating to solve com
 
 ### _"Tells” in Tweets: Developing a reliable Twitter sentiment analysis classifier for tech companies_
 
-![alt text](tellstweets.jpg)
+![alt text](./images/tellstweets.jpg)
 
 _A Natural Language Processing analysis using Bayesian modeling on imbalanced twitter data_
 
@@ -97,7 +97,7 @@ _A Natural Language Processing analysis using Bayesian modeling on imbalanced tw
 
 ### _What's Good?_
 
-![alt text](whatsgood.jpg)
+![alt text](./images/whatsgood.jpg)
 
 - _A Gratitude App in Vue.js_
 
@@ -107,7 +107,7 @@ _A Natural Language Processing analysis using Bayesian modeling on imbalanced tw
 
 ### _Deep Thoughts(2: This Time It's Thoughtful)_
 
-![alt text](deepthoughts.png)
+![alt text](./images/deepthoughts.png)
 
 - _A simple quote generator in React and Flask_
 
